@@ -4,7 +4,7 @@ FracMix:A Fractional Fourier Based Augmentationfor Generalizable Person Re-Ident
 ## Paper Link
 [FracMix: A Fractional Fourier Based Augmentation for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/11503102)
 ## Framework
-![image](https://github.com/HuidiXie/FracMix/blob/main/figures/net.png)
+![image](figures/net.png)
 ## Requirements
 ### Installation
 we use /torch 1.13.1 /torchvision 0.14.1 /cuda 12.2 /four 24G RTX 4090 for running.
@@ -55,9 +55,9 @@ CUDA_VISIBLE_DEVICES=1,2,3,4 python main_vit.py \
 
 ## Results
 ### Protocol-1</br>
-![image](https://github.com/HuidiXie/FracMix/blob/main/figures/sota1.png)
+![image](figures/sota1.png)
 ### Protocol-2</br>
-![image](https://github.com/HuidiXie/FracMix/blob/main/figures/sota2.png)
+![image](sota2.png)
 ## Contact
 If you have any question, please feel free to contact us.</br>
 E-mail: [jierujia@sxu.edu.cn](mailto:jierujia@sxu.edu.cn)
