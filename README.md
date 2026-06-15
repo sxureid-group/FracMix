@@ -57,7 +57,7 @@ CUDA_VISIBLE_DEVICES=1,2,3,4 python main_vit.py \
 ### Protocol-1</br>
 ![image](figures/sota1.png)
 ### Protocol-2</br>
-![image](sota2.png)
+![image](figures/sota2.png)
 ## Contact
 If you have any question, please feel free to contact us.</br>
 E-mail: [jierujia@sxu.edu.cn](mailto:jierujia@sxu.edu.cn)
